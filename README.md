@@ -1,7 +1,7 @@
 # `create-react-app` ... with Redux
 
 # Installation:
-`cd create-react-with-redux/`
+`cd shopping-cart`
 `npm install`
 
 # Run:
